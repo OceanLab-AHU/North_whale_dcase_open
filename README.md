@@ -45,7 +45,7 @@ We evaluated DAAPNet on two overlapping sound event datasets under various SNR l
 | Model | Parameters (M) | FLOPs (G) | PSDS (High SNR) | PSDS (Low SNR) |
 | :--- | :---: | :---: | :---: | :---: |
 | Conformer | 25.53 | 15.25 | 0.751 | 0.395 |
-| FAF-Filt | - | 23.39 | 0.743 | 0.560 |
+| FAF-Filt | 5.73 | 23.39 | 0.743 | 0.560 |
 | **DAAPNet (Ours)** | **6.26** | **1.93** | **0.779** | **0.607** |
 
 *> Note: Metrics above are based on the Whale dataset experiments.*
